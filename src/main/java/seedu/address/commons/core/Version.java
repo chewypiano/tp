@@ -2,6 +2,7 @@ package seedu.address.commons.core;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonValue;
 
